@@ -1,2 +1,1 @@
-
-console.log(h)
+console.log('粗犷男')
